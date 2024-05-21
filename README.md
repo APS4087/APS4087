@@ -7,7 +7,7 @@ Full Stack Developer
 Final Year CS student interested in Full Stack Development, Prompt Engineering and AI. Utilize AI to boost my productivity.
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [My Portfolio (Under Reconstruction)](http://github.com/APS4087/Portfolio)
+* 🖥️  See my portfolio at [My Portfolio](aungpyaesoe.cloud)
 * ✉️  You can contact me at [Aungpyaesoe@gmail.com](mailto:Aungpyaesoe@gmail.com)
 * 🧠  I'm learning Three.js and 3D modeling
 * 🤝  I'm open to collaborating on Projects that sparks my interest
