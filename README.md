@@ -8,7 +8,7 @@ Final Year CS student interested in Full Stack Development, Prompt Engineering a
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [My Portfolio](https://aungpyaesoe.cloud/)
-* ✉️  You can contact me at [Aungpyaesoe@gmail.com](mailto:Aungpyaesoe@gmail.com)
+* ✉️  You can contact me at [Aungpyaesoe.bgs@gmail.com](mailto:Aungpyaesoe.bgs@gmail.com)
 * 🧠  I'm learning Three.js and 3D modeling
 * 🤝  I'm open to collaborating on Projects that sparks my interest
 * ⚡  I love listening to K-Pop
