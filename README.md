@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **SOMETHING**
 
-- 🌱 I’m currently learning **LITTLE THINGS**
+- 🌱 I’m currently learning **A FEW THINGS**
 
 - 👯 I’m looking to collaborate on **BIG THINGS**
 
