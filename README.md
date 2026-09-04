@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ANYTHING**
 
-- 📫 How to reach me **work@billcreates.tech**
+- 📫 How to reach me **bill@billcreates.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
