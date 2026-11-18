@@ -1,22 +1,17 @@
-<h1 align="center">Hi 👋, I'm Aung Pyae Soe</h1>
-<h3 align="center">A Human</h3>
-
-- 🔭 I’m currently working on **SOMETHING**
-
-- 🌱 I’m currently learning **A FEW THINGS**
-
-- 👯 I’m looking to collaborate on **BIG THINGS**
-
-- 🤝 I’m looking for help with **EVERYTHING**
-
-- 👨‍💻 All of my projects are available at [billcreates.tech](https://billcreates.tech/)
-
-- 💬 Ask me about **ANYTHING**
-
-- 📫 How to reach me **bill@billcreates.tech**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aungps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aungps" height="30" width="40" /></a>
+<p>
+  <img src="./assets/profile/banner.svg" width="100%" alt="Bill Aung Pyae Soe · IT operations and AI enablement · Singapore">
 </p>
 
+I manage IT operations and build AI agents, automation, and internal tools that make everyday work easier.
+
+## Selected work
+
+<p align="center">
+  <a href="https://billcreates.tech/case/my-ai-operating-system/"><img src="./assets/profile/ai-operating-system.svg" width="49%" alt="My AI Operating System · A file-based system for AI-assisted work"></a>
+  <a href="https://billcreates.tech/work/lucky/"><img src="./assets/profile/lucky.svg" width="49%" alt="Lucky · An AI guide to my portfolio"></a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/aungps/"><img src="./assets/profile/linkedin.svg" width="126" alt="LinkedIn"></a>
+  <a href="mailto:bill@billcreates.tech"><img src="./assets/profile/email.svg" width="126" alt="Email Bill"></a>
+</p>
